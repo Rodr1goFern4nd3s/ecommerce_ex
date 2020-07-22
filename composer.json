@@ -1,0 +1,19 @@
+{
+    "name": "Rodr1goFern4nd3s/ecommerce_ex",
+    "authors": [
+        {
+            "name": "Rodrigo Fernandes",
+            "email": "fernandesrodrigo060@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "vendor\\hcodebr\\php-classes\\src"
+        }
+    }
+}
